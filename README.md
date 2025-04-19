@@ -1,17 +1,17 @@
 
 
-## 🧠 Clustering Algorithm Comparison with Preprocessing
+##  Clustering Algorithm Comparison with Preprocessing
 
 This project compares the performance of different clustering algorithms using multiple preprocessing techniques and standard clustering evaluation metrics.
 
 ---
 
-### 📌 Dataset
+###  Dataset
 - *Iris Dataset* from [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 
 ---
 
-### ⚙ Preprocessing Techniques
+###  Preprocessing Techniques
 - *No Processing*  
 - *Normalization* (MinMax)  
 - *Transform* (Square Root)  
@@ -21,21 +21,21 @@ This project compares the performance of different clustering algorithms using m
 
 ---
 
-### 🤖 Clustering Algorithms
+###  Clustering Algorithms
 - *K-Means* (3 to 5 clusters)
 - *Hierarchical (Agglomerative)* (3 to 5 clusters)
 - *Mean Shift* (auto-detects clusters)
 
 ---
 
-### 📏 Evaluation Metrics
+###  Evaluation Metrics
 - *Silhouette Score*  
 - *Calinski-Harabasz Index*  
 - *Davies-Bouldin Score*
 
 ---
 
-### 📈 Example Result Table
+###  Example Result Table
 
 | Algorithm     | Method     | Clusters | Silhouette | CH Index | DB Score |
 |---------------|------------|----------|------------|----------|----------|
@@ -47,7 +47,7 @@ This project compares the performance of different clustering algorithms using m
 
 ---
 
-### ✅ Key Takeaways
+###  Key Takeaways
 - Combining preprocessing techniques improves clustering performance.
 - PCA aids visualization and sometimes boosts separation.
 - MeanShift is adaptive but slower; works well when the number of clusters is unknown.
