@@ -1,8 +1,6 @@
 # Clustering_Akshita_102203527
 
-Sure! Here's a concise version of your README.md:
 
----
 
 ## 🧠 Clustering Algorithm Comparison with Preprocessing
 
@@ -41,6 +39,3 @@ This project compares different clustering algorithms using various preprocessin
 - PCA helps with dimensionality reduction and visualization.
 - Best results often come from combining transformation + normalization + PCA.
 
----
-
-Let me know if you want this in a downloadable format or want to include plots later!
